@@ -1,0 +1,23 @@
+.navbar-brand {
+    text-align: center;
+    padding-right: 50px;
+}
+
+li {
+    width: 100px;
+}
+
+.navbar_right {
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar-brand {
+        text-align: center;
+        margin-right: 90px;
+    }
+  }
+
+.left_space{
+    margin-left: 80px;
+}
